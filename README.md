@@ -77,16 +77,15 @@ accuracy=metrics.accuracy_score(y_test,y_pred)
 ```
 
 ## Output:
-Encoding:
-<img width="845" height="41" alt="image" src="https://github.com/user-attachments/assets/a6de090f-5697-470c-bf34-7b94df921107" />
-Head():
-<img width="723" height="209" alt="image" src="https://github.com/user-attachments/assets/7cf0d169-0117-4653-a127-abeefe48b04b" />
-isnul().sum:
-<img width="317" height="146" alt="image" src="https://github.com/user-attachments/assets/1a5d62d1-8040-492d-8399-f5b4e72fc3f4" />
-Prediction of Y:
+Encoding:<img width="845" height="41" alt="image" src="https://github.com/user-attachments/assets/a6de090f-5697-470c-bf34-7b94df921107" />
 
-Accuracy:
-<img width="285" height="42" alt="image" src="https://github.com/user-attachments/assets/a9af098c-88a4-426b-a99f-5f8e02909bf0" />
+Head():<img width="723" height="209" alt="image" src="https://github.com/user-attachments/assets/7cf0d169-0117-4653-a127-abeefe48b04b" />
+
+isnul().sum:<img width="317" height="146" alt="image" src="https://github.com/user-attachments/assets/1a5d62d1-8040-492d-8399-f5b4e72fc3f4" />
+
+Prediction of Y:<img width="879" height="94" alt="image" src="https://github.com/user-attachments/assets/9048224f-9443-448f-a54e-2dc71c4721ec" />
+
+Accuracy:<img width="285" height="42" alt="image" src="https://github.com/user-attachments/assets/a9af098c-88a4-426b-a99f-5f8e02909bf0" />
 
 
 ## Result:
